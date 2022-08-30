@@ -15,4 +15,6 @@ burp_pro破解+汉化，macos专用，利用burp_pro自带的java环境。
 
 <video src="./burp_pro_crack.mp4"></video>
 
-Forked from https://github.com/WankkoRee/BurpLoaderKeygenCnF
+https://raw.githubusercontent.com/killdayu/burp_pro_crack/main/burp_pro_crack.mp4
+
+Forked from [WankkoRee/BurpLoaderKeygenCnF](https://github.com/WankkoRee/BurpLoaderKeygenCnF)
