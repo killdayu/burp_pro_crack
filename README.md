@@ -14,6 +14,8 @@ burp_pro破解+汉化，macos专用，利用burp_pro自带的java环境。
 ## update log
 ### 2022.11.19
 支持最新稳定版2022.9.6
+
 优化了命令，现在可以不用sudo权限了。
+
 
 Forked from [WankkoRee/BurpLoaderKeygenCnF](https://github.com/WankkoRee/BurpLoaderKeygenCnF)
