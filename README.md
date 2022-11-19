@@ -11,10 +11,6 @@ burp_pro破解+汉化，macos专用，利用burp_pro自带的java环境。
 
 更新burp_pro的话，再次运行脚本即可，只有第一次安装需要激活。
 
-视频教程
-
-<video src="./burp_pro_crack.mp4"></video>
-
-https://raw.githubusercontent.com/killdayu/burp_pro_crack/main/burp_pro_crack.mp4
+支持最新稳定版2022.9.6
 
 Forked from [WankkoRee/BurpLoaderKeygenCnF](https://github.com/WankkoRee/BurpLoaderKeygenCnF)
